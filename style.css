@@ -1,3 +1,49 @@
-.experience{
-    background-color:#001a33;
+/* ----------------------form start----- */
+
+#contact{
+    margin-top: 10%;
 }
+.form{
+    color: #fff;
+}
+
+  /* -------------------form end-------------------------------   */
+
+  .res-icon{
+    display: flex;
+  }
+
+ .icons ul li  {
+ list-style: none;
+
+ }
+ .facebook{
+    width:30px;
+    height:30px;
+    border: 2px solid #800080;
+    border-radius: 50%;
+ }
+ .contact-info{
+   color: #fff;
+   font-size: 20px;
+   
+ }
+ .contact-info a{
+    text-decoration: none;
+ }
+.my-info{
+ color:#fff;
+ letter-spacing: 2px;
+}
+.info-hr{
+    color: #fff;
+
+}
+.social{
+color:#a120a1
+}
+
+.hr{
+  color:white;
+}
+
